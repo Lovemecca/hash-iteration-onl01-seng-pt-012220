@@ -18,7 +18,7 @@ def age_appropriate_birthday (birthday_kids)
       puts "You are too old for this."
     end
   end
-  
+end  
     
 #describe "#age_appropriate_birthday" do
   #it "only prints the birthday greeting if the birthday kid 12 or younger" do
